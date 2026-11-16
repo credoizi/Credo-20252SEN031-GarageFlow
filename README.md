@@ -80,3 +80,7 @@ Oracle. (n.d.). PL/SQL triggers. In *Oracle Database PL/SQL language reference* 
 RTA Fleet. (n.d.). *Repair history by single vehicle* [Report documentation]. https://rtafleet.atlassian.net/wiki/x/LQAdsg
 
 The New Times. (2026, January 21). *Vehicles registered in Rwanda pass 390,000*. https://www.newtimes.co.rw/article/32759/news/rwanda/vehicles-registered-in-rwanda-pass-390000
+
+Kharazian, Z., Lindgren, T., Magnússon, S., Steinert, O., & Andersson Reyna, O. (2025). SCANIA Component X dataset: A real-world multivariate time series dataset for predictive maintenance. arXiv. https://arxiv.org/abs/2401.15199
+
+Zheng, Y.-J. (2026). Chinese Vehicle Fleet Fault Association Dataset (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/r98g7g6k5t.1
