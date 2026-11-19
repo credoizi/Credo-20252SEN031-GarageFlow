@@ -13,24 +13,7 @@ This process describes how a customer brings a vehicle to the garage, how the re
 **diagrams.net (draw.io)**
 
 ### Published Business Process Diagram
-[Open the published GarageFlow diagram](PASTE_YOUR_PUBLISHED_DIAGRAM_LINK_HERE)
-
-> Replace the placeholder above with your actual published diagram link. Make sure anyone with the link can view it and test it in a private/incognito browser window.
-
-### Supporting Documents
-- [Business Process Diagram (PDF)](docs/business_process/business_process_diagram.pdf)
-- [Business Process Explanation (PDF)](docs/business_process/business_process_explanation.pdf)
-
-## Repository Structure
-
-```text
-Credo-20252SEN031-GarageFlow/
-├── README.md
-└── docs/
-    └── business_process/
-        ├── business_process_diagram.pdf
-        └── business_process_explanation.pdf
-```
+[Open the published GarageFlow diagram](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagram.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15bb2mImc2i9OmOBuT4_zYs5YPjo2smMc%26export%3Ddownload)
 
 ## Phase I Information Activities
 
